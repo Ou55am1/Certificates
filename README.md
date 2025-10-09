@@ -177,9 +177,9 @@ Bienvenue sur mon dépôt de certifications ! Vous trouverez ici l'ensemble de m
 
 ## 📫 Contact
 
-- **LinkedIn :** [Votre profil LinkedIn]
-- **Email :** [Votre email]
-- **GitHub :** [Votre profil GitHub]
+- **LinkedIn :** www.linkedin.com/in/oussama-benatik-2464aa337
+- **Email :** benatik.oussama@gmail.com
+- **GitHub :** https://github.com/Ou55am1
 
 ---
 
@@ -195,7 +195,7 @@ Tous les certificats sont authentiques et vérifiables via les liens Coursera fo
 
 ## 🚀 En cours d'apprentissage
 
-*[Ajoutez ici les certifications en cours ou prévues]*
+* - *
 
 ---
 
