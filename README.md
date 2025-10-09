@@ -1,6 +1,6 @@
 # 🎓 Mes Certifications Professionnelles
 
-Bienvenue sur mon dépôt de certifications ! Vous trouverez ici l'ensemble de mes certifications professionnelles obtenues via Coursera dans les domaines du développement web, cloud, programmation et soft skills.
+Bienvenue sur mon dépôt de certifications ! Vous trouverez ici l'ensemble de mes certifications professionnelles obtenues dans les domaines du développement web, cloud, programmation et soft skills.
 
 ---
 
