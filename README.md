@@ -6,7 +6,7 @@ Bienvenue sur mon dépôt de certifications ! Vous trouverez ici l'ensemble de m
 
 ## 📖 Table des Matières
 
-- [👨‍💻 À propos](#-à-propos)
+- [👨‍💻 À propos](#-a-propos)
 - [📚 Certifications par catégorie](#-certifications-par-catégorie)
   - [🌐 Développement Web & Frontend](#-développement-web--frontend)
   - [☁️ Cloud & DevOps](#️-cloud--devops)
