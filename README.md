@@ -4,6 +4,25 @@ Bienvenue sur mon dépôt de certifications ! Vous trouverez ici l'ensemble de m
 
 ---
 
+## 📖 Table des Matières
+
+- [👨‍💻 À propos](#-à-propos)
+- [📚 Certifications par catégorie](#-certifications-par-catégorie)
+  - [🌐 Développement Web & Frontend](#-développement-web--frontend)
+  - [☁️ Cloud & DevOps](#️-cloud--devops)
+  - [💻 Programmation & Computer Science](#-programmation--computer-science)
+  - [🗄️ Bases de données & SQL](#️-bases-de-données--sql)
+  - [🛠️ Software Engineering & Outils](#️-software-engineering--outils)
+  - [🎯 Soft Skills & Développement Personnel](#-soft-skills--développement-personnel)
+  - [📖 Autres compétences](#-autres-compétences)
+- [🎯 Compétences techniques](#-compétences-techniques)
+- [📊 Statistiques](#-statistiques)
+- [📫 Contact](#-contact)
+- [📌 Note de vérification](#-note-de-vérification)
+- [🚀 En cours d'apprentissage](#-en-cours-dapprentissage)
+
+---
+
 ## 👨‍💻 À propos
 
 **Nom :** Oussama BENATIK  
