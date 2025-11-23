@@ -6,7 +6,7 @@ Bienvenue sur mon dépôt de certifications ! Vous trouverez ici l'ensemble de m
 
 ## 📖 Table des Matières
 
-- [👨‍💻 À propos](#-a-propos)
+- [👨‍💻 À propos](#-à-propos)
 - [📚 Certifications par catégorie](#-certifications-par-catégorie)
   - [🌐 Développement Web & Frontend](#-développement-web--frontend)
   - [☁️ Cloud & DevOps](#️-cloud--devops)
@@ -196,9 +196,9 @@ Bienvenue sur mon dépôt de certifications ! Vous trouverez ici l'ensemble de m
 
 ## 📫 Contact
 
-- **LinkedIn :** www.linkedin.com/in/oussama-benatik-2464aa337
+- **LinkedIn :** [www.linkedin.com/in/oussama-benatik](www.linkedin.com/in/oussama-benatik-2464aa337)
 - **Email :** benatik.oussama@gmail.com
-- **GitHub :** https://github.com/Ou55am1
+- **GitHub :** [BENATIK Oussama (Ou55am1)](https://github.com/Ou55am1)
 
 ---
 
@@ -208,7 +208,7 @@ Tous les certificats sont authentiques et vérifiables via les liens Coursera fo
 
 ---
 
-*Dernière mise à jour : Octobre 2024*
+*Dernière mise à jour : Novembre 2024*
 
 ---
 
