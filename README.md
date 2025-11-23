@@ -6,7 +6,7 @@ Bienvenue sur mon dépôt de certifications ! Vous trouverez ici l'ensemble de m
 
 ## 📖 Table des Matières
 
-- [👨‍💻 À propos](#-à-propos)
+- [👨‍💻 À propos](#à-propos)
 - [📚 Certifications par catégorie](#-certifications-par-catégorie)
   - [🌐 Développement Web & Frontend](#-développement-web--frontend)
   - [☁️ Cloud & DevOps](#️-cloud--devops)
@@ -190,7 +190,7 @@ Bienvenue sur mon dépôt de certifications ! Vous trouverez ici l'ensemble de m
 - **Total de certifications :** 20
 - **Spécialisations :** 1
 - **Universités partenaires :** 11+
-- **Période :** Mars 2023 - Mai 2025
+- **Période :** Mars 2023 - Toujours en progression
 
 ---
 
